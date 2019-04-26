@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Mechatro	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+attach	KEYWORD2
+speed	KEYWORD2
+fastStop	KEYWORD2
+setCircuitSpec	KEYWORD2
+getCurrent	KEYWORD2
+getVolt	KEYWORD2
+getVoltRMS	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
