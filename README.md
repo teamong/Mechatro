@@ -1,5 +1,11 @@
-# mechatro
-Library for mechatro coding board (메카트로 라이브러리)
+Library for mechatro coding board (메카트로 코딩 보드 라이브러리)
+
+   Library for mechatro cording sheild.
+   but it can be used any project with L298x Driver.
+
+   메카트로 코딩쉴드 모터 컨틀롤 라이브러리
+   메카트로 코딩쉴드용으로 개발 되었으나
+   L298x 드라이버를 사용하는 어떤 프로젝트에도 사용 가능함
 
 Methods and Functions
 
